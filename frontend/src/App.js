@@ -9,7 +9,6 @@ function App() {
         <p> Controlador</p> </header>
         <JointControl/>
         <StatusBar/>
-
     </div>
   );
 }
